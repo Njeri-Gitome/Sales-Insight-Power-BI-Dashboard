@@ -29,4 +29,6 @@ Additional Insights
 [Data Source](https://codebasics.io/resources/sales-insights-data-analysis-project)
 
 ## Reports and Documentation
+- [Sales Project Brief & Insights](https://github.com/Njeri-Gitome/Sales-Insight-Power-BI-Dashboard/blob/main/Sales%20Project%20Brief%20%26%20Insights.pptx)
+- [Sales Insights & Visualizations](https://github.com/Njeri-Gitome/Sales-Insight-Power-BI-Dashboard/blob/main/Sales%20Insights%20Visualizations.pptx)
 
