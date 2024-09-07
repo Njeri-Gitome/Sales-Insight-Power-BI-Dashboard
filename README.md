@@ -15,3 +15,6 @@ Build a **PowerBI Dashboard** for converting the sales data into visual insights
 
 ## Extract Transform Load
 ![ETL](https://github.com/Njeri-Gitome/Sales-Insight-Power-BI-Dashboard/blob/main/etl%20framework.drawio.png)
+
+## Data model
+![Data Model](https://github.com/Njeri-Gitome/Sales-Insight-Power-BI-Dashboard/blob/main/data%20model.PNG)
