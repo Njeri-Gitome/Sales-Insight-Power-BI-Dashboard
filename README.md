@@ -13,6 +13,9 @@ AtliQ Hardware is a company which supplies computer hardware and peripherals to 
 ## Deliverable
 Build a **PowerBI Dashboard** for converting the sales data into visual insights that can be used for making data-driven-decisions. 
 
+## Sales Insights Dashboard
+![Key Insights](https://github.com/Njeri-Gitome/Sales-Insight-Power-BI-Dashboard/blob/main/insights.PNG)
+
 ## Extract Transform Load
 ![ETL](https://github.com/Njeri-Gitome/Sales-Insight-Power-BI-Dashboard/blob/main/etl%20framework.drawio.png)
 
